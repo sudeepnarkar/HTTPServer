@@ -1,0 +1,1 @@
+This project involved building of a Multithreaded HTTP Server using socket programming which accepted HTTP requests from the client and rendered the appropriate resource with a response containing the date,MIME type, content length and the number of times the resource is requested with the HTTP headers. 
